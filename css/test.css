@@ -1,0 +1,17 @@
+body{ background-color: #FFEFD5; <!papayawhip> }
+
+h1{
+	color: #FF4500; <! orangered >
+	font-size: 40px;
+}
+h2{
+	color: 	#CD5C5C; <! indianred >
+	font-size: 26px;
+}
+.changes{
+	text-transform: uppercase;
+	text-align: center;
+}
+span{
+	color: #DC143C; <! crimson >
+}
